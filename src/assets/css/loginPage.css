@@ -1,0 +1,8 @@
+.login-overall-bg {
+  background-image: linear-gradient(#89f7fe, #66a6ff);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

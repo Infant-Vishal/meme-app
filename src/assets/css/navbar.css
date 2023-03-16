@@ -1,0 +1,11 @@
+.navbar-brand-name {
+  font-weight: bold;
+  color: #ffffff;
+  font-style: italic;
+}
+
+.navbar-heart-icon {
+  color: "black";
+  font-size: "30px";
+  margin-right: "24px";
+}
